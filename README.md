@@ -222,6 +222,8 @@ Resistencia con polaridad
 
 
 
+VIdeo Explicativo 
+https://youtu.be/Ye71T6QLQdw
 
 
 
