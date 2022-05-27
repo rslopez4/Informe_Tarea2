@@ -172,7 +172,8 @@ Sección 4-2 Potencia en un circuitos eléctrico
 
 8.	Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
-![image](https://user-images.githubusercontent.com/84783341/170533102-16c2837c-4512-4605-8999-2103fca87c1e.png)
+![image](https://user-images.githubusercontent.com/84783341/170606801-f600c1bd-2a9d-4a71-a589-156fae594a72.png)
+
 
 9.	¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 k?
 
